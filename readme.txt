@@ -22,6 +22,7 @@ Install and activate. There are no settings to configure.
 = 1.0.1 =
 * Update "Tested up to" version
 * Readme updates
+* Add full text of license
 
 = 1.0 =
 * Initial release
